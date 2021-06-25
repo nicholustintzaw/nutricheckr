@@ -31,3 +31,8 @@ remotes::install_githbu("nutriverse/nutricheckr")
 ```
 
 ## Usage
+
+
+## Authours
+Ernest Guevarra
+Nicholus Tint Zaw
